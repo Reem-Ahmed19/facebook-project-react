@@ -6,6 +6,7 @@ import Confirmbtn from '../componants/confirm';
 import Watch from '../componants/watch';
 import UIUX from '../componants/uiux';
 import Ali from '../componants/ali';
+import Mind from '../componants/mind';
 
 const Home = () => {
     return (
@@ -41,6 +42,7 @@ const Home = () => {
                 </div>
             </div>
         </div>
+        <div className='bb'>
         <div  className='float'>
         <div className='ee'>
             <Ali />
@@ -48,6 +50,13 @@ const Home = () => {
               <Ali />
                <Ali />
         </div>
+        
+        </div>
+        <div>
+         <div>
+            <Mind />
+         </div>
+         </div>
         </div>
         </div>
         </>

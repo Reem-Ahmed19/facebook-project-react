@@ -1,0 +1,34 @@
+.tt{
+    width: 807px;
+    height: 128px;
+    display: flex;
+    border-radius: 7px;
+    background: #FFF;
+    align-items: center;
+    justify-content: center;
+}
+.mm{
+    display: flex;
+    gap: 30px;
+}
+.ww{
+    width: 617px;
+height: 40px;
+border-radius: 31px;
+background: #F0F2F5;
+display: flex;
+align-items: center;
+padding: 0 15px
+}
+.kk{
+    color: #65676B;
+
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.aa{
+    display: flex;
+    gap: 10px;
+}
